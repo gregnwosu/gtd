@@ -1,0 +1,12 @@
+** how to
+to get reminded at the right moment put entries in here
+entries in here must be entered with a timestamp
+*** keys
+your context determines what you will be working
+only schedule if:
+- specific appointment like dentist
+- or deadlined
+#+BEGIN_EXAMPLE
+Schedule an Entry      C-c C-s on a headline
+Add a deadline         C-c C-d on a headline
+#+END_EXAMPLE
