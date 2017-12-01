@@ -11,9 +11,13 @@ only schedule if:
 Schedule an Entry      C-c C-s on a headline
 Add a deadline         C-c C-d on a headline
 #+END_EXAMPLE
+
 ** cheese
 **  Travel to Leeds to see magnus
   <2017-11-24 Fri 23:19>
 
 collect tickets at kings cross station at 17:30
 magnus stays at chaple allerton
+** Price list api  aws
+  [2017-11-08 Wed 11:33]
+https://aws.amazon.com/blogs/mt/controlling-projected-user-costs-through-monthly-budget-policies/

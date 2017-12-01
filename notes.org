@@ -1,0 +1,3 @@
+* Mydrive
+** Data lake
+A data lake is an architectural approach that allows you to store massive amounts of data into a central location, so it's readily available to be categorized, processed, analyzed and consumed by diverse groups within an organization.
