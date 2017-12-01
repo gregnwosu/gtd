@@ -1,4 +1,5 @@
 
+* inbox
 ** gtd inbox
 Every thought should be collected here, and processed later on
 *** How to File
