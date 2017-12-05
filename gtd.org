@@ -1,4 +1,3 @@
-
 * Get Things Done!!
 https://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html
 ** How to
