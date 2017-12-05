@@ -2,22 +2,22 @@
 * inbox
 ** gtd inbox
 Every thought should be collected here, and processed later on
-*** How to File
-**** diagram
-   #+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/GTDcanonical.png/1280px-GTDcanonical.png @ 2017-10-11 12:00:23
-   [[file:1280px-GTDcanonical_2017-10-11_12-00-21.png]]
+** How to File
+*** diagram
+  #+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/GTDcanonical.png/1280px-GTDcanonical.png @ 2017-10-11 12:00:23
+  [[file:1280px-GTDcanonical_2017-10-11_12-00-21.png]]
 
-**** keys
-***** capture
+*** keys
+**** capture
 #+BEGIN_EXAMPLE
 C-c t to capture an entry into inbox
 C-c T to add an entry into tickler
 C-c once captured to complete
 #+END_EXAMPLE
-***** refile
+**** refile
 Refile each entry that is actionable and belongs to a project
 If need be create a new project
 #+BEGIN_EXAMPLE
 C-c C-w to refiled
 #+END_EXAMPLE
-* Tasks
+** Tasks

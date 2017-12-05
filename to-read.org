@@ -1,0 +1,3 @@
+* Reading
+  - [ ] spark and kinesis
+https://www.supergloo.com/fieldnotes/spark-kinesis-example/

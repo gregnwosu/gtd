@@ -165,5 +165,59 @@ persist both dataframes
 **** ENSIME jump to next error
   M-n
 M-p
+<<<<<<< variant A
+>>>>>>> variant B
+**** DataFrame.dropDuplicates
+does what it says on the tin!
+======= end
 *** 2017-12-04 Monday
 ****
+*** 2017-12-05 Tuesday
+**** publish to ecs
+
+***** create repository
+https://console.aws.amazon.com/ecs/home?region=us-east-1#/repositories
+***** get a command to log into ecs
+this gives you a command to log into ecs
+#+BEGIN_SRC bash
+ecs aws ecr get-login --region us-east-1
+#+END_SRC
+
+***** build a docker image
+#+BEGIN_SRC bash
+docker build -t docker-ecs .
+#+END_SRC
+
+***** tag docker image
+you'll need the repo url = here it is 047143111768.dkr.ecr.us-east-1.amazon.com/docker-ecs
+#+BEGIN_SRC bash
+docker tag docker-ecs:latest 047143111768.dkr.ecr.us-east-1.amazon.com/docker-ecs/docker-ecs:latest
+
+#+END_SRC
+
+***** push to the repoistory
+#+BEGIN_SRC bash
+docker push 047143111768.dkr.ecr.us-east-1.amazon.com/docker-ecss:latest
+
+#+END_SRC** 2017-12 December
+        #+BEGIN_SRC
+        FARGATE AWS for docker containers
+
+        #+END_SRC
+*** sshuttle
+used for VPNs
+*** sagemaker
+made of 3 independent services?
+**** managed notebook servers
+**** libraries for training models
+**** model hosting
+*** lift from features
+ - hard corning small feature lift
+** mydrive germany market
+**** generali
+brokers
+dedicated sales org dvag
+self employed fin advice network
+**** archenouchima
+mostly sell to young drivers
+**** genetal
