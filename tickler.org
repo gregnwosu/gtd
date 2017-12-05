@@ -14,3 +14,5 @@ Add a deadline         C-c C-d on a headline
 ** Price list api  aws
   [2017-11-08 Wed 11:33]
 https://aws.amazon.com/blogs/mt/controlling-projected-user-costs-through-monthly-budget-policies/
+** test tickler
+  [2017-12-04 Mon 20:02]
