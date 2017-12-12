@@ -1,22 +1,19 @@
-<<<<<<< HEAD
-=======
-
 * Get Things Done!!
 https://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html
->>>>>>> 1e2536d919fa3c74c2e535ae88305c3846608eae
+
 ** How to
 keep all active projects here
 Each project contains actions to be performed.
 The first action of each project is called its "next action"
 Always do the "next action" when working on a project.
 Once the task is done make it as such using the *DONE* keywords
-<<<<<<< HEAD
+
 ** keys
 *** completion percentage
-=======
+
 *** keys
 * completion percentage
->>>>>>> 1e2536d919fa3c74c2e535ae88305c3846608eae
+
 #+BEGIN_EXAMPLE
 add x of n completion  [/]
 add competion percentage [%]
@@ -60,7 +57,7 @@ only schedule if:
 Schedule an Entry      C-c C-s on a headline
 Add a deadline         C-c C-d on a headline
 #+END_EXAMPLE
-<<<<<<< HEAD
+
 *** filtering
 **** general
 when deciding what to work on
@@ -94,7 +91,7 @@ C-c a to select and agenda command
 *** home
 *** education
 *** finance
-=======
+
 **** filtering
 ***** general
  when deciding what to work on
@@ -137,7 +134,9 @@ C-c a to select and agenda command
 
 ***
 **** tax
-***** TODO close company
-***** TODO ring tax office confirm vat bill
+***** DONE close company
+      CLOSED: [2017-12-12 Tue 09:29]
+***** DONE ring tax office confirm vat bill
+      CLOSED: [2017-12-12 Tue 09:29]
 ***** TODO pay tax , give letter to esta
 >>>>>>> 1e2536d919fa3c74c2e535ae88305c3846608eae
