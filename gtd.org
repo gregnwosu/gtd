@@ -1,19 +1,15 @@
 * Get Things Done!!
 https://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html
-
 ** How to
 keep all active projects here
 Each project contains actions to be performed.
 The first action of each project is called its "next action"
 Always do the "next action" when working on a project.
 Once the task is done make it as such using the *DONE* keywords
-
 ** keys
 *** completion percentage
-
 *** keys
 * completion percentage
-
 #+BEGIN_EXAMPLE
 add x of n completion  [/]
 add competion percentage [%]
@@ -117,10 +113,8 @@ C-c a to select and agenda command
 #+BEGIN_SRC emacs-lisp
   (setq org-agenda-custom-commands '(("o" "At the office" tags-todo "@office" ((org-agenda-overriding-header "Office")))))
 #+END_SRC
-
 ** projects
 **** igbo language
-
 *****  Igbo Study
      <2017-11-28 Tue 23:16>
    Learn new words
@@ -131,12 +125,9 @@ C-c a to select and agenda command
 **** self driving car degree
 **** mydrive
 **** reunions
-
-***
 **** tax
 ***** DONE close company
       CLOSED: [2017-12-12 Tue 09:29]
 ***** DONE ring tax office confirm vat bill
       CLOSED: [2017-12-12 Tue 09:29]
 ***** TODO pay tax , give letter to esta
->>>>>>> 1e2536d919fa3c74c2e535ae88305c3846608eae

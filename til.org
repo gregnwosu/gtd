@@ -165,8 +165,11 @@ persist both dataframes
 **** ENSIME jump to next error
   M-n
 M-p
+<<<<<<< variant A
+>>>>>>> variant B
 **** DataFrame.dropDuplicates
 does what it says on the tin!
+======= end
 *** 2017-12-04 Monday
 ****
 *** 2017-12-05 Tuesday
