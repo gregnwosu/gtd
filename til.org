@@ -213,6 +213,50 @@ made of 3 independent services?
 **** model hosting
 *** lift from features
  - hard corning small feature lift
+*** 2017-12-06 Wednesday
+**** Mydrive mission statement
+to provide customers with captibitly to have insight which add
+demonstrabl business value
+go to company to support generali digital transformation
+help at worst and drive at best come up with ideas to change and
+digitize generali s digitization
+
+
+dont expect answers from board
+make this into a world class datascience company
+predictive analytics of driving behaviour
+**** openstreet map on s3
+available on amazon
+can build athena table on top
+*** 2017-12-11 Monday
+**** sshuttle
+#+BEGIN_SRC bash
+sshuttle --dns -r ec2-52-213-141-240.eu-west-1.compute.amazonaws.com 10.0.0.0/16`
+#+END_SRC
+
+ in my .ssh/config I’ve got:
+#+BEGIN_SRC
+Host *.compute.amazonaws.com *.compute.internal
+ForwardAgent yes
+#+END_SRC
+**** KVal Cross Validation
+split into k-folds
+#+BEGIN_EXAMPLE
+(k=)10 test and train sets,
+then take an average of ASE score
+#+END_EXAMPLE
+**** hard brake
+
+**** why put a filtering on speed
+filtering gave more reasonable speed on mobile data
+was originally implemented to create better data on maps
+**** progressive
+ase 1500 with all features
+**** hardbrake
+based on gps not obs data
+
+**** here data
+can you learn how to mapmatch on progressive side?
 ** mydrive germany market
 **** generali
 brokers

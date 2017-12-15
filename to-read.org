@@ -2,4 +2,10 @@
   - [ ] spark and kinesis
   - [ ] scala threads cats-effect
 https://typelevel.org/blog/2017/05/02/io-monad-for-cats.html
+  - [ ] Apple blog post on machine learning while preserving privacy:
+  - [ ] Announcing the Availability of ONNX 1.0 | Amazon Web Services
+Today, Amazon Web Services (AWS), Facebook and Microsoft are pleased to announce that the Open Neural Network Exchange (ONNX) format is production ready. ONNX is an open standard format for deep learning models that enables interoperability between deep learning frameworks such as Apache MXNet, Caffe2, Microsoft Cognitive Toolkit, and PyTorch. ONNX 1.0 enables users to […] (545 kB)
+https://aws.amazon.com/blogs/ai/announcing-the-availability-of-onnx-1-0/
+https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html
+
 https://www.supergloo.com/fieldnotes/spark-kinesis-example/
