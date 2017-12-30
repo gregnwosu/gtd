@@ -257,7 +257,24 @@ based on gps not obs data
 
 **** here data
 can you learn how to mapmatch on progressive side?
-** mydrive germany market
+*** 2017-12-12 Tuesday
+**** UBI
+usage based insurance
+**** group de assuranceces mutulle
+group ama
+*** 2017-12-15 Friday
+**** turicreate
+apple system for ml
+*** 2017-12-18 Monday
+**** cocoapods for podfiles
+#+BEGIN_SRC bash
+sudo gem install cocoapods
+#+END_SRC
+then from the directory
+#+BEGIN_SRC bash
+pod install
+
+#+END_SRC** mydrive germany market
 **** generali
 brokers
 dedicated sales org dvag
@@ -265,3 +282,11 @@ self employed fin advice network
 **** archenouchima
 mostly sell to young drivers
 **** genetal
+*** 2017-12-20 Wednesday
+**** how to capture all s3 from mydrive repo
+#+BEGIN_SRC bash
+find . -type f -print0  |  xargs -0 awk 'match($0,/s3:[^\"'\'']*/) {print substr($0,RSTART,RLENGTH)}' > ~/dev/mydrive/alls3fromcode.txt
+
+#+END_SRC
+**** data generator for kinesis
+https://awslabs.github.io/amazon-kinesis-data-generator/web/help.html

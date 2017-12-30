@@ -81,8 +81,8 @@ C-c a to select and agenda command
 #+END_SRC
 ** projects
 *** mydrive
-**** TODO buy secret santa present for samantha gould
-     SCHEDULED: <2017-12-04 Mon>
+**** DONE buy secret santa present for samantha gould
+     CLOSED: [2017-12-12 Tue 13:42] SCHEDULED: <2017-12-04 Mon>
  im thinking a wig
 *** home
 *** education

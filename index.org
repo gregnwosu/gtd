@@ -27,3 +27,14 @@ C-c C-w to refiled
 * TODO study redshift code
 * TODO co-ordinate boys night
 * TODO finish prototype
+* TODO phone hmrc and sort out income tax
+shouldnt have any to pay since i havent been in the country
+* TODO data catalog for s3
+description
+static
+dynamic
+governance
+lifecycle how long until it expires
+buckets
+mass of the data , gravity of the data
+the way you store is the way you query the data
