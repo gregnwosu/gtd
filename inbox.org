@@ -1,23 +1,133 @@
-
-* inbox
-** gtd inbox
-Every thought should be collected here, and processed later on
-** How to File
-*** diagram
-  #+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/GTDcanonical.png/1280px-GTDcanonical.png @ 2017-10-11 12:00:23
-  [[file:1280px-GTDcanonical_2017-10-11_12-00-21.png]]
-
+* Get Things Done!!
+https://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html
+** How to
+keep all active projects here
+Each project contains actions to be performed.
+The first action of each project is called its "next action"
+Always do the "next action" when working on a project.
+Once the task is done make it as such using the *DONE* keywords
+** keys
+*** completion percentage
 *** keys
-**** capture
+* completion percentage
 #+BEGIN_EXAMPLE
-C-c t to capture an entry into inbox
-C-c T to add an entry into tickler
-C-c once captured to complete
+add x of n completion  [/]
+add competion percentage [%]
 #+END_EXAMPLE
-**** refile
-Refile each entry that is actionable and belongs to a project
-If need be create a new project
+*** tagging
+used for linking to:
+- categories like :study: , :career:, :relationship:
+- persons associated with a task e.g. :mrlister:
+- GTD Contexts
+ #+BEGIN_EXAMPLE
+ C-c C-C on a headline ads a tag
+ #+END_EXAMPLE
+*** contexts
+these change but now we have
 #+BEGIN_EXAMPLE
-C-c C-w to refiled
+@home
+@office
+@fitness
+@children
+@relationship
+@phone
+@email
+@study
+@hacking
 #+END_EXAMPLE
-** Tasks
+*** keywords
+     used for *all* project entries
+cycle through them when on a headline  via C-<left>/<right>
+#+BEGIN_EXAMPLE
+TODO (C-c C-t when on a headline)
+WAITING
+DONE
+CANCELLED
+#+END_EXAMPLE
+*** scheduling
+your context determines what you will be working
+only schedule if:
+- specific appointment like dentist
+- or deadlined
+#+BEGIN_EXAMPLE
+Schedule an Entry      C-c C-s on a headline
+Add a deadline         C-c C-d on a headline
+#+END_EXAMPLE
+
+*** filtering
+**** general
+when deciding what to work on
+#+BEGIN_EXAMPLE
+filter the org tree C-c /
+filter the org tree by regex C-c / r  or C-c / /
+move to next match M-g n  or M-g M-n
+move to previous match M-g p or M-g M-p
+#+END_EXAMPLE
+**** by context or status / Agenda commands
+#+BEGIN_EXAMPLE
+C-c a to select and agenda command
+#+END_EXAMPLE
+***** by status
+ for frequent tree search define a custom command
+ e.g.
+ #+BEGIN_SRC emacs-lisp
+ (setq org-agenda-custom-commands '(("f" occur-tree "FIXME")))
+ #+END_SRC
+ this defines C-c a f as a shortcut for creating a sparse tree matching
+ fixme
+***** by context
+#+BEGIN_SRC emacs-lisp
+  (setq org-agenda-custom-commands '(("o" "At the office" tags-todo "@office" ((org-agenda-overriding-header "Office")))))
+#+END_SRC
+** projects
+*** mydrive
+**** DONE buy secret santa present for samantha gould
+     CLOSED: [2017-12-23 Sat 04:20] SCHEDULED: <2017-12-04 Mon>
+ im thinking a wig
+*** home
+*** education
+*** finance
+
+**** filtering
+***** general
+ when deciding what to work on
+ #+BEGIN_EXAMPLE
+ filter the org tree C-c /
+ filter the org tree by regex C-c / r  or C-c / /
+ move to next match M-g n  or M-g M-n
+ move to previous match M-g p or M-g M-p
+ #+END_EXAMPLE
+***** by context or status / Agenda commands
+#+BEGIN_EXAMPLE
+C-c a to select and agenda command
+#+END_EXAMPLE
+****** by status
+  for frequent tree search define a custom command
+  e.g.
+  #+BEGIN_SRC emacs-lisp
+  (setq org-agenda-custom-commands '(("f" occur-tree "FIXME")))
+  #+END_SRC
+  this defines C-c a f as a shortcut for creating a sparse tree matching
+  fixme
+****** by context
+#+BEGIN_SRC emacs-lisp
+  (setq org-agenda-custom-commands '(("o" "At the office" tags-todo "@office" ((org-agenda-overriding-header "Office")))))
+#+END_SRC
+** projects
+**** igbo language
+*****  Igbo Study
+     <2017-11-28 Tue 23:16>
+   Learn new words
+**** igbo language app
+***** TODO finish igbo web app
+    version 1 just needs some polish and only from a-z
+**** volunteering
+**** self driving car degree
+**** mydrive
+**** reunions
+**** tax
+***** DONE close company
+      CLOSED: [2017-12-12 Tue 09:29]
+***** DONE ring tax office confirm vat bill
+      CLOSED: [2017-12-12 Tue 09:29]
+***** TODO pay tax , give letter to esta
