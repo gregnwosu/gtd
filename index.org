@@ -1,0 +1,67 @@
+* TODO  MyDrive emr security groups from working from home
+https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#SecurityGroups:groupId=sg-2c9d5953;sort=groupId
+* TODO
+* TODO file a tax return for 2015 -2016 to HMRC
+for period 6th april 2015 - 5 april 2016
+telephone 0300 200 3300
+self assemsement
+hmrc
+bx9 1as
+* TODO barclays business account closure
+sr1412174832566
+* TODO maya taekwondo grading
+* TODO Research Black organisations
+
+
+** ubele.org
+
+* inbox
+** gtd inbox
+Every thought should be collected here, and processed later on
+** How to File
+*** diagram
+  #+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/GTDcanonical.png/1280px-GTDcanonical.png @ 2017-10-11 12:00:23
+  [[file:1280px-GTDcanonical_2017-10-11_12-00-21.png]]
+
+*** keys
+**** capture
+#+BEGIN_EXAMPLE
+C-c t to capture an entry into inbox
+C-c T to add an entry into tickler
+C-c once captured to complete
+#+END_EXAMPLE
+**** refile
+Refile each entry that is actionable and belongs to a project
+If need be create a new project
+#+BEGIN_EXAMPLE
+C-c C-w to refiled
+#+END_EXAMPLE
+
+
+** black cultural archives
+black organisations
+
+** runnymede trust .org
+ more of a think tank and do research , well networked , may have
+ database of orgs
+ have a look case studies reports, for contacts
+
+** harmony
+lloyd lrose jones - had cancer may not be alive
+
+** Tasks
+* TODO study redshift code
+* DONE co-ordinate boys night
+  CLOSED: [2017-12-15 Fri 23:21]
+* TODO finish prototype
+* TODO phone hmrc and sort out income tax
+shouldnt have any to pay since i havent been in the country
+* TODO data catalog for s3
+description
+static
+dynamic
+governance
+lifecycle how long until it expires
+buckets
+mass of the data , gravity of the data
+the way you store is the way you query the data
