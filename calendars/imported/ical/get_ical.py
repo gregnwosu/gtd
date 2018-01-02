@@ -16,7 +16,7 @@ CALENDARS = {
 def main():
     for name, address in CALENDARS.items():
         print("loading " + name)
-        with open("%s-google-calendar.ics" % name, "w") as fd:
+        with open("~/gtd/calendars/imported/ical/%s-google-calendar.ics" % name, "w") as fd:
             fd.write(requests.get(GOOGLE_CAL_URL + address).text)
 
 
