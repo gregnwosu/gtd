@@ -1,0 +1,20 @@
+* Mydrive
+** Data lake
+A data lake is an architectural approach that allows you to store massive amounts of data into a central location, so it's readily available to be categorized, processed, analyzed and consumed by diverse groups within an organization.
+** GDPR june 25 2018
+widens scope of personal information
+- IP address
+- location
+- logs? browser access?
+*** ask yourself
+- what data am i working with
+- what information is flowing throught the systems that im working with
+- am i keeping the data safe?
+** Information Security
+*** data owners
+natural person about whom the data is about
+*** data controllers
+most times insurers are responsile
+we are data controllers for data
+*** data processors
+mydrive data processors

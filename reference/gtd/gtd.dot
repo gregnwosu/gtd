@@ -1,0 +1,45 @@
+digraph gtd_design {
+  phone[shape=cylinder, label=android_phone];
+  computer[shape=cylinder];
+  calendars[shape=folder];
+  projects[shape=folder];
+  archive[shape=folder];
+  reference[shape=folder];
+  habits[shape=folder];
+  agenda[shape=folder];
+  inbox_dropbox[shape=folder, label="dropbox/inbox"];
+  evernote_dropbox[shape=folder, label="dropbox/evernote"];
+
+  todo[shape=note];
+  inbox_orgzly[shape=note];
+  reference_evernote[shape=note];
+  someday[shape=note];
+  gcal[shape=note];
+  reviews[shape=note];
+  journal[shape=note];
+  inbox[shape=note];
+
+
+  actionnext[shape=egg];
+  tmp[shape=egg];
+  task[shape=egg];
+
+  mydriveschedule[shape=note];
+  todo, someday -> projects;
+
+  habits, projects,   calendars -> agenda;
+  agenda -> computer;
+   inbox_dropbox -> agenda[label="git pull dropbox master"];
+   evernote_dropbox -> agenda[label="enex2org"] ;
+
+  phone -> inbox_orgzly, reference_evernote;
+  inbox_orgzly -> inbox_dropbox;
+  journal, reviews -> archive;
+
+  reference_evernote -> evernote_dropbox;
+
+
+  gcal, mydriveschedule -> calendars;
+  archive, reference,  inbox -> computer;
+
+}
