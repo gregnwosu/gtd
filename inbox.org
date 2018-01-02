@@ -131,3 +131,61 @@ C-c a to select and agenda command
 ***** DONE ring tax office confirm vat bill
       CLOSED: [2017-12-12 Tue 09:29]
 ***** TODO pay tax , give letter to esta
+#+STARTUP: overview
+#+TAGS: WORK(w) HEALTH(h) PERSONAL-DEVELOPMENT(p) ENTREPRENEURIAL(e) MONEY(m) SOCIAL(s) FAMILY(f)
+#+STARTUP: hidestars
+* inbox
+** gtd inbox
+Every thought should be collected here, and processed later on
+** How to File
+*** diagram
+  #+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/GTDcanonical.png/1280px-GTDcanonical.png @ 2017-10-11 12:00:23
+  [[file:1280px-GTDcanonical_2017-10-11_12-00-21.png]]
+
+*** keys
+**** capture
+#+BEGIN_EXAMPLE
+C-c t to capture an entry into inbox
+C-c T to add an entry into tickler
+C-c once captured to complete
+#+END_EXAMPLE
+**** refile
+Refile each entry that is actionable and belongs to a project
+If need be create a new project
+#+BEGIN_EXAMPLE
+C-c C-w to refiled
+#+END_EXAMPLE
+
+* Tasks
+** TODO  MyDrive emr security groups from working from home
+ https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#SecurityGroups:groupId=sg-2c9d5953;sort=groupId
+** TODO file a tax return for 2015 -2016 to HMRC
+ for period 6th april 2015 - 5 april 2016
+ telephone 0300 200 3300
+ self assemsement
+ hmrc
+ bx9 1as
+** DONE barclays business account closure
+   CLOSED: [2017-12-31 Sun 15:22]
+ sr1412174832566
+** WAITING maya taekwondo grading
+** TODO Research Black organisations
+
+
+*** ubele.org
+
+*** black cultural archives
+ black organisations
+
+*** runnymede trust .org
+  more of a think tank and do research , well networked , may have
+  database of orgs
+  have a look case studies reports, for contacts
+
+*** harmony
+ lloyd lrose jones - had cancer may not be alive
+
+** TODO study redshift code
+** DONE co-ordinate boys night
+   CLOSED: [2017-12-15 Fri 23:21]
+** TODO finish prototype
