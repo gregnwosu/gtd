@@ -1,25 +1,15 @@
+
 * inbox
-** DONE barclays business account closure
-   CLOSED: [2017-12-31 Sun 15:22]
- sr1412174832566
 ** WAITING maya taekwondo grading
 ** TODO Research Black organisations
-
-
 *** ubele.org
-
 *** black cultural archives
  black organisations
-
 *** runnymede trust .org
   more of a think tank and do research , well networked , may have
   database of orgs
   have a look case studies reports, for contacts
-
 *** harmony
- lloyd lrose jones - had cancer may not be alive
+  lloyd lrose jones - had cancer may not be alive
 
 ** TODO study redshift code
-** DONE co-ordinate boys night
-   CLOSED: [2017-12-15 Fri 23:21]
-** TODO finish prototype
