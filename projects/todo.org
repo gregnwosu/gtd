@@ -16,3 +16,5 @@ tomasz is managing it  his details are
 tfaba@andrewsonline.co.uk
 170-172 Putney High Street, Putney, SW15 1RS
 Tel: 02087 802667 |  Email: tfaba@andrewsonline.co.uk
+** TODO follow up with tomas on sherfield
+   SCHEDULED: <2018-01-10 Wed>
