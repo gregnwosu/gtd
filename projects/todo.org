@@ -9,12 +9,3 @@
 ** DONE need to fix agenda, cant seem to see much
    CLOSED: [2018-01-03 Wed 11:39]
  complete , agenda only shows things with a schedule i think
-* Inbox
-** TODO  Check the proceedings for Letting out Sherfield
-Kenneth Needs to be evicted.
-tomasz is managing it  his details are
-tfaba@andrewsonline.co.uk
-170-172 Putney High Street, Putney, SW15 1RS
-Tel: 02087 802667 |  Email: tfaba@andrewsonline.co.uk
-** TODO follow up with tomas on sherfield
-   SCHEDULED: <2018-01-10 Wed>
