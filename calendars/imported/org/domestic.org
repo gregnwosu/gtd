@@ -1,0 +1,42 @@
+* pickup children
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MzI2MWhjaDRybWRvdGJudmJmaXF2ODUzYnEgNTdqaDUydmE2ZTFjMWZwY3BtNHNjMGhsdjRAZw][Go to gcal web page]]
+  :ID: 3261hch4rmdotbnvbfiqv853bq
+  :END:
+
+  <2017-12-05 Tue 17:30-18:30>
+* drop off to school
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NHM1dDZjZ3NkNHB0a2RiNTY2czBvNjRnNGcgNTdqaDUydmE2ZTFjMWZwY3BtNHNjMGhsdjRAZw][Go to gcal web page]]
+  :ID: 4s5t6cgsd4ptkdb566s0o64g4g
+  :END:
+
+  <2017-12-11 Mon 09:00-10:00>
+* pickup
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmExM29mYTBuYXYyMHM4NmdvOGNtdGc2bjAgNTdqaDUydmE2ZTFjMWZwY3BtNHNjMGhsdjRAZw][Go to gcal web page]]
+  :ID: 2a13ofa0nav20s86go8cmtg6n0
+  :END:
+
+  <2017-12-11 Mon 17:30-18:30>
+* Enugu meeting
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=YnU3aWpwaHJoNDNsczBlbDIwcWNqcG8zaThfMjAxNzEyMTdUMTYwMDAwWiA1N2poNTJ2YTZlMWMxZnBjcG00c2MwaGx2NEBn][Go to gcal web page]]
+  :ID: bu7ijphrh43ls0el20qcjpo3i8_20171217T160000Z
+  :END:
+
+  <2017-12-17 Sun 16:00-20:00>
+* Enugu meeting
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=YnU3aWpwaHJoNDNsczBlbDIwcWNqcG8zaThfMjAxODAxMjFUMTYwMDAwWiA1N2poNTJ2YTZlMWMxZnBjcG00c2MwaGx2NEBn][Go to gcal web page]]
+  :ID: bu7ijphrh43ls0el20qcjpo3i8_20180121T160000Z
+  :END:
+
+  <2018-01-21 Sun 16:00-20:00>
+* Enugu meeting
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=YnU3aWpwaHJoNDNsczBlbDIwcWNqcG8zaThfMjAxODAyMThUMTYwMDAwWiA1N2poNTJ2YTZlMWMxZnBjcG00c2MwaGx2NEBn][Go to gcal web page]]
+  :ID: bu7ijphrh43ls0el20qcjpo3i8_20180218T160000Z
+  :END:
+
+  <2018-02-18 Sun 16:00-20:00>

@@ -12,7 +12,12 @@
   lloyd lrose jones - had cancer may not be alive
 
 ** TODO study redshift code
+
 ** TODO purchase glasses
    SCHEDULED: <2018-01-06 Sat>
 ** TODO pack thunderbolt cable into bag
    DEADLINE: <2018-01-04 Thu 08:00>
+
+** TODO  [[mu4e:msgid:301423253.14338754.1515018383185@mail.yahoo.com][Igbo Language app write-up]]
+   SCHEDULED: <2018-01-03 Wed>
+finish app for once and for all!!
