@@ -1,29 +1,3 @@
-* Held for group training session
-  :PROPERTIES:
-  :LOCATION: The office
-  :LINK: [[https://www.google.com/calendar/event?eid=ZWsxZDU3c2RzNWhpZGhudmdjOTV0OGVoZnNfMjAxNzEyMDRUMTMwMDAwWiBncmVnLm53b3N1QG15ZHJpdmVzb2x1dGlvbnMuY29t][Go to gcal web page]]
-  :ID: ek1d57sds5hidhnvgc95t8ehfs_20171204T130000Z
-  :END:
-
-  <2017-12-04 Mon 13:00-14:00>
-
-Hi everyone,
-
-We would like to establish a weekly one hour training slot on a day that most people are in the office so we can use it for all kinds of 'bit sized' training inputs.
-
-The first session will be a LinkedIn and Social Media Policy training on the 22nd Feb with Anne-Sophie.
-
-Thanks!
-
-ZOOM LINK
-https://zoom.us/j/804529409
-* Profiler Evolution - weekly catch-up
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=M2llcGsxNXQ0YWprMWZybmtjaXZqZWRjZWlfMjAxNzEyMDRUMTUwMDAwWiBncmVnLm53b3N1QG15ZHJpdmVzb2x1dGlvbnMuY29t][Go to gcal web page]]
-  :ID: 3iepk15t4ajk1frnkcivjedcei_20171204T150000Z
-  :END:
-
-  <2017-12-04 Mon 15:00-16:00>
 * DS Standup
   :PROPERTIES:
   :LOCATION: https://zoom.us/j/534345752

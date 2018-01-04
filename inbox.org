@@ -12,3 +12,6 @@
   lloyd lrose jones - had cancer may not be alive
 
 ** TODO study redshift code
+** TODO  [[mu4e:msgid:301423253.14338754.1515018383185@mail.yahoo.com][Igbo Language app write-up]]
+   SCHEDULED: <2018-01-03 Wed>
+finish app for once and for all!!
