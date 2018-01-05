@@ -1,0 +1,28 @@
+
+*  Reading [0/0]
+from https://codearsonist.com/reading-for-programmers
+** Verify Interest [0/7]
+   - [ ] Category - what type of paper is this?
+   - [ ] Context - which other papers it is related to? which theoretical bases were used to analyze the problem?
+   - [ ] Correctness - do the assumptions appear to be valid?
+   - [ ] Contributions - what are the paper's main contributions?
+   - [ ] Clarity - is it well written?
+   - [ ]    What's in it for me?
+   - [ ]    Do I have enough background?
+*** explanation
+The first pass provides you with a high-level view of the contents. Helps you avoid getting stuck in a badly written, uninteresting, wrong or simply beyond your current knowledge text. To get the most from the first pass I usually start with references. And although statistically 80% of the authors never read the cited texts in full 4, they provide a great overview of what to expect. Whenever approaching a complex, long paper I tend to mark the cited papers I've read. So I can get back to my infamous notes) or verify the background. Reading the papers starts with the title, abstract and introduction which I read carefully the first time I approach a paper. They are the first sign of whether the article is the one to go with. After that I scan through the article focusing on section headings, graphical elements and math formulas. I also read the results and discussion section to have an overview of where I will be lead with the article. The author of "How to read papers"2 paper, that was recently trending over at HackerNews suggests that the first pass shall give you an answer to 5Cs:
+  #+BEGIN_SRC emacs-lisp
+  (dired "~/Downloads/")
+  #+END_SRC
+
+** Grasp Concepts [0/5]
+- [ ] googlebooks, ibooks , phone?
+- [ ] highlight interest
+- [ ] identify require reference reading
+- [ ] grasp concepts of required reference reading
+- [ ] have a conversation with someone about it
+
+** Critique [/]
+- [ ] produce a blog post
+- [ ] write some sample code
+- [ ] publish on github/blog
