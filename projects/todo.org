@@ -1,4 +1,13 @@
 * To Do
+** TODO finish kinesis prototype                   :@work:@home:1h:Challenge:
+** WAITING finish model drawer                            :30min:home:office:
+ ask johnny for a list of s3 buckets
+ SCHEDULED: <2018-01-03 Wed 09:46>
+
+** WAITING enter expenses for self driving course         :@work:@home:15min:
+   SCHEDULED: <2018-01-03 Wed 09:54>
+ ive asked carly shes is going to get back to me
+
 ** DONE pay santander
    CLOSED: [2018-01-03 Wed 09:34]
 ** DONE Find out how much i owe to craig and tahina so that i can pay santander
@@ -9,7 +18,6 @@
 ** DONE need to fix agenda, cant seem to see much
    CLOSED: [2018-01-03 Wed 11:39]
  complete , agenda only shows things with a schedule i think
-* Inbox
 ** TODO  Check the proceedings for Letting out Sherfield
 Kenneth Needs to be evicted.
 tomasz is managing it  his details are
