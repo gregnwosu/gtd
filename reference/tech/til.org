@@ -1,0 +1,12 @@
+
+* 2018
+** 2018-01 January
+*** 2018-01-03 Wednesday
+**** TODAY I LEARNED:
+Sqlalchemy for
+http://www.sqlalchemy.org/
+**** TODAY I LEARNED:
+sqlalchemy
+ORM for python , not sure its that great need to review , maria is
+evaluating
+http://www.sqlalchemy.org/
