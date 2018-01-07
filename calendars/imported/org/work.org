@@ -194,11 +194,9 @@ This event was created from an email that you received in Gmail. https://mail.go
   :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVobmphY2o5ZTFqNmdyYmVlOG9tY3JiZDZzb202bzlrY2hoNmFxM2s2c3I3MmU5a2VwamplcDFnZTBxNmtjajhkNHJtbXMzNWNocjM2dGJnZTloNmUgZ3JlZy5ud29zdUBt][Go to gcal web page]]
   :ID: _6tlnaqrle5p6cpb4dhmj4phpehnjacj9e1j6grbee8omcrbd6som6o9kchh6aq3k6sr72e9kepjjep1ge0q6kcj8d4rmms35chr36tbge9h6e
   :END:
-
   <2018-01-11 Thu 19:00-21:30>
 
 To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
-
 This event was created from an email that you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMtB6yBgGr6XL1zUvE0yyfUJCjj6WfqduM
 * Catch up over Coffee
   :PROPERTIES:

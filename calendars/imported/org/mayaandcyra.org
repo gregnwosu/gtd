@@ -1,4 +1,5 @@
-* Greg and Cyra and Time
+* DONE Greg and Cyra and Time
+  CLOSED: [2018-01-07 Sun 23:10]
   :PROPERTIES:
   :LINK: [[https://www.google.com/calendar/event?eid=NWc1dHR2dWM4aDB1b3Y5ZnU5djRrNGlndmogczVpZGM5MmNoY2sxY3BkbDFnOHBlaW5zYnNAZw][Go to gcal web page]]
   :ID: 5g5ttvuc8h0uov9fu9v4k4igvj
