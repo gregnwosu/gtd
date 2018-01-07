@@ -1,0 +1,4 @@
+* health
+:PROPERTIES:
+  :STYLE:    habit
+  :END:

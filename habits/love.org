@@ -1,0 +1,4 @@
+* love
+:PROPERTIES:
+  :STYLE:    habit
+  :END:

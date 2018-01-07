@@ -1,0 +1,4 @@
+* GTD
+  :PROPERTIES:
+  :STYLE:    habit
+  :END:

@@ -1,0 +1,4 @@
+* activism
+:PROPERTIES:
+  :STYLE:    habit
+  :END:

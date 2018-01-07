@@ -1,0 +1,4 @@
+* business
+:PROPERTIES:
+  :STYLE:    habit
+  :END:

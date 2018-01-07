@@ -1,0 +1,4 @@
+* someday
+:PROPERTIES:
+  :STYLE:    habit
+  :END:
