@@ -1,4 +1,7 @@
-* GTD
+#+TITLE: gtd habits
+#+AUTHOR: Greg Nwosu
+#+STYLE: habit
+* gtd
   :PROPERTIES:
   :STYLE:    habit
   :END:

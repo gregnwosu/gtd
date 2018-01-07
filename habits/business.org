@@ -1,3 +1,6 @@
+#+TITLE: business habits
+#+AUTHOR: Greg Nwosu
+#+STYLE: habit
 * business
 :PROPERTIES:
   :STYLE:    habit

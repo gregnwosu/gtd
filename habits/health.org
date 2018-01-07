@@ -1,4 +1,9 @@
+#+TITLE: health habits
+#+AUTHOR: Greg Nwosu
+#+STYLE: habit
 * health
 :PROPERTIES:
   :STYLE:    habit
   :END:
+** make green smoothie                                     :@home:15min:Easy:
+   SCHEDULED: <2018-01-07 Sun ++1d>

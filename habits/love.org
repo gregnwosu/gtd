@@ -1,3 +1,6 @@
+#+TITLE: love habits
+#+AUTHOR: Greg Nwosu
+#+STYLE: habit
 * love
 :PROPERTIES:
   :STYLE:    habit

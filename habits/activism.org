@@ -1,3 +1,6 @@
+#+TITLE: activism habits
+#+AUTHOR: Greg Nwosu
+#+STYLE: habit
 * activism
 :PROPERTIES:
   :STYLE:    habit

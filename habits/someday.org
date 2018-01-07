@@ -1,3 +1,6 @@
+#+TITLE: someday habits
+#+AUTHOR: Greg Nwosu
+#+STYLE: habit
 * someday
 :PROPERTIES:
   :STYLE:    habit

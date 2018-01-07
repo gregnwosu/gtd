@@ -1,4 +1,9 @@
+#+TITLE: finance habits
+#+AUTHOR: Greg Nwosu
+#+STYLE: habit
 * finance
 :PROPERTIES:
   :STYLE:    habit
   :END:
+** Submit Taxes                                          :@home:1h:Challenge:
+   SCHEDULED: <2018-01-07 Sun +1y>
