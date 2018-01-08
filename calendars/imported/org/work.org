@@ -1,18 +1,3 @@
-* Wfh. drop children to school and pickup
-  :PROPERTIES:
-  :LOCATION: Bessemer Grange Primary School, Dylways, London SE5 8HP, United Kingdom
-  :LINK: [[https://www.google.com/calendar/event?eid=NjM4cDJ2YXZycWh0MGswY2VpOWlqczRyOWMgZ3JlZy5ud29zdUBt][Go to gcal web page]]
-  :ID: 638p2vavrqht0k0cei9ijs4r9c
-  :END:
-
-  <2017-12-05 Tue 09:00-17:30>
-* Igbo lessons greg
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=Y2dzbTZwYjI2a28zMGJiNDYxaTNlYjlrNjBzNmFiOW9jNHIzMGJiMTZzczMwbzlnNjlpajBvaGs2Z18yMDE3MTIwNVQxOTAwMDBaIGdyZWcubndvc3VAbQ][Go to gcal web page]]
-  :ID: cgsm6pb26ko30bb461i3eb9k60s6ab9oc4r30bb16ss30o9g69ij0ohk6g_20171205T190000Z
-  :END:
-
-  <2017-12-05 Tue 19:00-20:00>
 * Meeting weles and owen at Leon.
   :PROPERTIES:
   :LOCATION: Leon, 115 Buckingham Palace Road, SU1 Victoria Place Shopping Centre,, 115 Buckingham Palace Rd, London SW1W 9SJ, United Kingdom
