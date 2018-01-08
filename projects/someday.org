@@ -14,6 +14,13 @@ refile as a child of last refile point C-2 C-c C-w
 refile and keep entry in place C-3 C-c C-w
 clear target cache C-0 C-c C-w (org-refile-cache-clear)
 #+END_EXAMPLE
+
+
+* Someday / Maybe
+** SOMEDAY <2018-01-05 Fri>                                       :Challenge:
+smarten, raspberry pis that you can attach to existing machines to
+provdie as smart interface
+
 ** machine learning
 to get a big following
 bot to create, a massive youtube following using machine learning
