@@ -5,5 +5,11 @@
 :PROPERTIES:
   :STYLE:    habit
   :END:
-** make green smoothie                                     :@home:15min:Easy:
-   SCHEDULED: <2018-01-07 Sun ++1d>
+** TODO make green smoothie                                   :@home:15min:Easy:
+   SCHEDULED: <2018-01-09 Tue ++1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2018-01-08 Mon 08:11]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2018-01-08 Mon 08:11]
+   :END:
