@@ -1,0 +1,217 @@
+* forte labs
+* everything is design
+** habit design
+*** gtd weekly review
+master key to gtd
+**** cue
+**** schedule moment
+**** whats the immediate reward
+*** implementation intentention
+support system
+identitiy based behaviouyr change
+** productivity
+creating value in the world as efficiently and effectibly as possible
+we need to acklnowledge our current definition of productivity is
+centreed on a white male privileged outview
+*** people that have high productivy have strategy for appearing productive
+**** eg. only work when they are most effective
+*** learn to measure your own productivity
+actually helps to keep your gtd files in order
+**** number of hours you work,
+used by managers to measure productivity
+**** e.g.
+tasks completed per hour
+** workflow
+*** containers
+check tasks
+*** checklist
+monitor progress
+* tax
+** file tax reports
+** NEXT print out tax
+* GTD
+just a funnel and a filter
+your todo list is sacred
+what deserves to be on there
+stress comes from bad manage
+tasks need to be something you can picture yourself doing
+anything bigger than two steps is a project
+** collect everything you need to do in one place
+make sure EVERYTHING is on there
+*** open loops
+
+| loop                         | actionable | next physical action                 | do/del/def | project             | area of responsibility                | daily | weekly | monthly |
+|------------------------------+------------+--------------------------------------+------------+---------------------+---------------------------------------+-------+--------+---------|
+| tax                          | y          | send 2015 return                     | do         | tax                 | financial management                  |   X   |        |         |
+| teeth                        | y          | book appoitnement                    | do         | teeth               | health                                |       |        |   X     |
+| checkup                      | y          | get doctor telephone                 | do         | 40 yr old checkup   | health                                |       |        |   X     |
+| igbo study                   | y          | find notes                           | del        | learn igbo          | cultural awareness                    |       |   X    |         |
+| app for erroll               | y          | find tutorial on video upload appear | del        | make news app       | activism, learning, entrepreneurial   |       |        |   X     |
+| self driving car             | y          | start watching video                 | del        | first weeks project | learning                              |       |   X    |         |
+| pay santander bill for legal | y          | find amounts owed                    | do         | agathas estate      | financial management, future planning |       |        |   X     |
+| improve gtd                  | y          | learn how to do properly             | def        | learn gtd           | self improvement                      |   X   |        |         |
+*** progressive summarization
+You add the layers *opportunistically*
+The general idea of progressive summarization is that you want to create those notes so that, when you see them in the future, it’s easy to quickly comprehend the purpose. You do that by moving through the following process:
+
+    Layer 1: When you encounter something interesting, capture it
+    Layer 2: Bold the most interesting parts
+    Layer 3: Highlight the most interesting bolded sections
+    Layer 4: Summarize the bolded portions and the note in your own words
+    Layer 5: Turn your notes into something new: a tweet, a blog post,
+    even a book
+#+BEGIN_SRC emacs-lisp
+(sp-with-modes
+   '(org-mode)
+    (sp-local-pair "*" "*"))
+#+END_SRC
+** process each thing by clarify outcome and next action
+*** process top item first
+   no priority
+   start at beginning
+*** process one at a time
+focus on just one thing
+*** never put anything back into inbox
+*** questions
+   - is it actionable
+**** non actionable
+    - trash
+    - someday/maybe
+    - reference
+*** what is the NEXT action
+keep project plans and to do list as separate as possible
+**** options on NEXT action
+***** do it
+less than 2 minutes
+drop what your doing
+if you have 350 emails you can drop the threshold to 10 seconds
+***** delegate it
+if someone can do it 80% as well as you DELEGATE it
+***** defer it
+put it into your todo list
+** organsise reminders with a system you trust
+everything should be in one of the seven buckets
+project list is a task generator
+things for iphone/mac
+a project should be a *folder*!!
+*** projects vs areas of responsibility
+all projects should be in a folder
+every task falls under an area of responsibility
+not every task falls under a project
+every project is inside an area of responsibility
+- gtd
+  - areas of responsibility (these are tags)
+    - tasks/actions this (habits this is a tag)
+  - projects can be tagged with multiple areas of responsibility and
+    must have at least one area of responsibility
+    - tasks/actions
+*** tags/ labels
+**** waiting for
+ consider adding deadlines
+ for when you are waiting for something out of your control
+**** calendar/ scheduled items
+ calendar hard landscape , which things can flow around
+ suggested app busy-cal
+ don't schedule everything
+ things that need to happen at a scheduled time
+**** next actions
+ should be filtered down
+ clear next actions for projects
+ clear simple steps to do next
+ only the NEXT action should go on the TODAY / AGENDA lists
+**** reference material
+information that we need to keep
+**** someday/maybe
+place where you put dreams
+e.g. wines i would like to try
+resturants i would like to visit
+** review reminders
+review your containers as often as you need to to feel comfortable
+about commitments
+the masterkey to GTD dont skip the weekly review
+prevents your mind from taking the job of remembering
+gives an elevated perspective
+dont do it at work
+*** when on vacation
+clearing the tasks
+making sure everything is taken care of
+get that feeling once a week
+*** how
+- handle missed items/ open loops
+- review budgets
+- update containers
+- review system
+- get clean , clear , current and complete
+- look at past 4 weeks
+- look at future 4 weeks
+*** daily checklist
+- look at calendar
+  - this is a hard landscape
+- look at desktop
+- look at computer desktop
+- look at email inbox
+  - these are sometimes turned into tasks
+- look at things/iphone inbox
+*** monthly review
+- look at projects list
+  - finished project/ new projects
+- areas of responsibility
+- goals
+- look at someday maybe
+*** time tracking
+org-clock in clockout
+see how much time you spend on gtd
+see the gain , as you are more productive you can spend more time on gtd.
+** do them
+*** how do you choose what to do
+- Context
+  - what can you do?
+- Time constraints
+  - is it urgent
+  - is there enough time to finish?
+- Energy level
+  - brain fried
+- Priority
+  - lowest importance
+** skills
+*** be lazy/ be efficient
+be aware of what is taking lots of time and find an easier way
+*** more important to be self aware
+- where are you aversions
+- where are your pains
+- make it work for you
+*** dont run with the crowd
+find your own way
+question conventional wisdom
+*** apps
+**** develop a set of criteria for apps
+ - is the app very simple
+ - 10 times ROI
+   - if it takes 1 minute to use it needs to return more
+   - needs to be free or 1 time purchase
+   - should look good and be welld designed
+   - multi platform
+*** next steps
+**** setup tools
+task managmenet
+calendar
+reference
+listmaking app
+**** get streams of gtd update
+gtd group david allen
+unclutter
+43 folders
+lifehacker
+twitter gtd groups
+**** set aside a block of time
+write down all of your open loops
+- schedule your reviews
+  - daily review on bus
+  - share what you are learning
+**** other processes that complement
+eisenhower matrix
+pomodoro
+inbox0
+time tracking
+achievement list
+structured procrastination

@@ -1,0 +1,9 @@
+#+TITLE: improvement habits
+#+AUTHOR: Greg Nwosu
+#+STYLE: habit
+* improvement
+:PROPERTIES:
+  :STYLE:    habit
+  :END:
+** TODO self driving car course
+   SCHEDULED: <2018-01-03 Wed +2d -1d>

@@ -1,0 +1,9 @@
+#+TITLE: gtd habits
+#+AUTHOR: Greg Nwosu
+#+STYLE: habit
+* gtd
+  :PROPERTIES:
+  :STYLE:    habit
+  :END:
+** Weekly Review                                     :@work:@home:30min:Easy:
+   SCHEDULED: <2018-01-08 Mon +1w>

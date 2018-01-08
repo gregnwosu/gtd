@@ -1,2 +1,0 @@
-* mydrive
-* TODO finish kinesis prototype

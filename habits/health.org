@@ -1,0 +1,15 @@
+#+TITLE: health habits
+#+AUTHOR: Greg Nwosu
+#+STYLE: habit
+* health
+:PROPERTIES:
+  :STYLE:    habit
+  :END:
+** TODO make green smoothie                                   :@home:15min:Easy:
+   SCHEDULED: <2018-01-09 Tue ++1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2018-01-08 Mon 08:11]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2018-01-08 Mon 08:11]
+   :END:

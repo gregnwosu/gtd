@@ -1,7 +1,7 @@
-#+TITLE: someday habits
+#+TITLE: activism habits
 #+AUTHOR: Greg Nwosu
 #+STYLE: habit
-* someday
+* activism
 :PROPERTIES:
   :STYLE:    habit
   :END:

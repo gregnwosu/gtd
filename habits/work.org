@@ -1,7 +1,7 @@
-#+TITLE: someday habits
+#+TITLE: work habits
 #+AUTHOR: Greg Nwosu
 #+STYLE: habit
-* someday
+* work
 :PROPERTIES:
   :STYLE:    habit
   :END:

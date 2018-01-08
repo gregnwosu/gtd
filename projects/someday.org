@@ -1,4 +1,3 @@
-
 * someday
 ** how to
 should only be reviewed during the weekly review
@@ -16,7 +15,25 @@ refile and keep entry in place C-3 C-c C-w
 clear target cache C-0 C-c C-w (org-refile-cache-clear)
 #+END_EXAMPLE
 
+
 * Someday / Maybe
 ** SOMEDAY <2018-01-05 Fri>                                       :Challenge:
 smarten, raspberry pis that you can attach to existing machines to
 provdie as smart interface
+
+** machine learning
+to get a big following
+bot to create, a massive youtube following using machine learning
+make people not a fan of content not a fan of content but a fan of
+content maker
+** 2018
+*** 2018-01 January
+**** 2018-01-07 Sunday
+***** SOMEDAY
+the key to success in social media is making people feel special about
+being connected to you through
+- getting assoicaited with high value
+- acting high value
+- buying assets that make you high value (tweets, likes etc)
+***** SOMEDAY capture FPV drone racing
+streams vs control commands from the airwaves for ML
