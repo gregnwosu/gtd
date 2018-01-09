@@ -1,0 +1,81 @@
+* improvement
+** today i learned
+*** 2018
+**** 2018-01 January
+***** 2018-01-03 Wednesday
+****** TODAY I LEARNED:
+  Sqlalchemy for
+  http://www.sqlalchemy.org/
+****** TODAY I LEARNED:
+  sqlalchemy
+  ORM for python , not sure its that great need to review , maria is
+  evaluating
+  http://www.sqlalchemy.org/
+***** 2018-01-04 Thursday
+****** TODAY I LEARNED:
+  AWS Macie
+
+  service for discovering data
+***** 2018-01-05 Friday
+****** S3 Data table locations
+*******  Buckets
+  we have various buckets called
+  Where the trips go is actually on a per contract (a single customer can have multiple contracts, such as cosmos production, cosmos mydrive-acceptance, cosmos user-acceptance etc). But generally they go into the same bucket. We could do an audit to find out exactly what everything is set to now if you needed it
+********  mydrive-tripdata-x
+
+  (and just mydrive-tripdata)
+
+    These have raw trips in, as well as a bunch of intermediate data that was processed at part of the pipeline…
+
+********* format
+     The format in there is
+  #+BEGIN_EXAMPLE
+     bucket/deployment_name/by_sub_id/<subscription_id>/<trip_files>
+  #+END_EXAMPLE
+
+********  intermediate data
+  the intermediate data is
+  #+BEGIN_EXAMPLE
+     bucket/deployment_name/full_speed_events/YYYY/MM/DD/<trip_files>
+     bucket/deployment_name/time_banded_events/YYYY/MM/DD/<trip_files>
+     bucket/deployment_name/xml_profiles/YYYY/MM/DD/<trip_files>
+  #+END_EXAMPLE
+
+  e.g.
+  #+BEGIN_EXAMPLE
+      ```2016-09-30 13:23:12 mydrive-tripdata
+     2015-04-07 13:25:12 mydrive-tripdata-axauk
+     2016-09-30 12:18:43 mydrive-tripdata-dev
+     2016-09-30 12:19:02 mydrive-tripdata-generali-germany
+     2017-11-07 11:02:44 mydrive-tripdata-generali-italy
+     2013-11-25 17:07:40 mydrive-tripdata-isaac
+     2017-10-19 19:41:42 mydrive-tripdata-labs
+     2012-05-24 09:22:12 mydrive-tripdata-pfk
+     2016-09-30 12:18:57 mydrive-tripdata-shared
+     ```
+  #+END_EXAMPLE
+
+     some of those are not used, and some are confused
+
+******** deployment
+     deployment means a deployment of infrastructure hardware.
+
+     We have
+
+********* generali-germany
+********* generali-italy
+********* generali-india
+********* staging
+********* mydrive (which is called demo inside those tripdata directories, so s3://mydrive-tripdata/demo/ is where it’s files go), this was an old shared deployment, so companies which didn’t need to be on private infrastructure all went on here, along with the production mydrive app in the app strore
+******** mydrive app in the app store
+********** dev
+********** labs
+********** axaie
+********** shared (this is the modern shared deployment) (edited)
+******** Infrastruture
+       Infrastructure config goes in s3://mydrive-infrastructure/
+       This has loads of folders in I don’t knwo what they are for, but it also has
+********* mydrive-infrastructure/deployments (deployment specific infrastructure config)
+********* terraform (where terraform stores it’s state files)
+****** Best practise for architectures 2017
+  https://www.dativa.com/best-practice-data-pipeline-architecture-2017/
