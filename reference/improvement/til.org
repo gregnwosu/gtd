@@ -1,81 +1,186 @@
+*  today i learned
+** 2018
+*** 2018-01 January
+**** 2018-01-03 Wednesday
+***** TODAY I LEARNED:
+ Sqlalchemy for
+ http://www.sqlalchemy.org/
+***** TODAY I LEARNED:
+ sqlalchemy
+ ORM for python , not sure its that great need to review , maria is
+ evaluating
+ http://www.sqlalchemy.org/
+**** 2018-01-04 Thursday
+***** TODAY I LEARNED:
+ AWS Macie
 
-* 2018
-** 2018-01 January
-*** 2018-01-03 Wednesday
-**** TODAY I LEARNED:
-Sqlalchemy for
-http://www.sqlalchemy.org/
-**** TODAY I LEARNED:
-sqlalchemy
-ORM for python , not sure its that great need to review , maria is
-evaluating
-http://www.sqlalchemy.org/
-*** 2018-01-04 Thursday
-**** TODAY I LEARNED:
-AWS Macie
+ service for discovering data
+**** 2018-01-05 Friday
+***** S3 Data table locations
 
-service for discovering data
-*** 2018-01-05 Friday
-**** S3 Data table locations
+******  Buckets
+ we have various buckets called
+ Where the trips go is actually on a per contract (a single customer can have multiple contracts, such as cosmos production, cosmos mydrive-acceptance, cosmos user-acceptance etc). But generally they go into the same bucket. We could do an audit to find out exactly what everything is set to now if you needed it
+*******  mydrive-tripdata-x
 
-*****  Buckets
-we have various buckets called
-Where the trips go is actually on a per contract (a single customer can have multiple contracts, such as cosmos production, cosmos mydrive-acceptance, cosmos user-acceptance etc). But generally they go into the same bucket. We could do an audit to find out exactly what everything is set to now if you needed it
-******  mydrive-tripdata-x
+ (and just mydrive-tripdata)
 
-(and just mydrive-tripdata)
+   These have raw trips in, as well as a bunch of intermediate data that was processed at part of the pipeline…
 
-  These have raw trips in, as well as a bunch of intermediate data that was processed at part of the pipeline…
+******** format
+    The format in there is
+ #+BEGIN_EXAMPLE
+    bucket/deployment_name/by_sub_id/<subscription_id>/<trip_files>
+ #+END_EXAMPLE
 
-******* format
-   The format in there is
-#+BEGIN_EXAMPLE
-   bucket/deployment_name/by_sub_id/<subscription_id>/<trip_files>
-#+END_EXAMPLE
+*******  intermediate data
+ the intermediate data is
+ #+BEGIN_EXAMPLE
+    bucket/deployment_name/full_speed_events/YYYY/MM/DD/<trip_files>
+    bucket/deployment_name/time_banded_events/YYYY/MM/DD/<trip_files>
+    bucket/deployment_name/xml_profiles/YYYY/MM/DD/<trip_files>
+ #+END_EXAMPLE
 
-******  intermediate data
-the intermediate data is
-#+BEGIN_EXAMPLE
-   bucket/deployment_name/full_speed_events/YYYY/MM/DD/<trip_files>
-   bucket/deployment_name/time_banded_events/YYYY/MM/DD/<trip_files>
-   bucket/deployment_name/xml_profiles/YYYY/MM/DD/<trip_files>
-#+END_EXAMPLE
+ e.g.
+ #+BEGIN_EXAMPLE
+     ```2016-09-30 13:23:12 mydrive-tripdata
+    2015-04-07 13:25:12 mydrive-tripdata-axauk
+    2016-09-30 12:18:43 mydrive-tripdata-dev
+    2016-09-30 12:19:02 mydrive-tripdata-generali-germany
+    2017-11-07 11:02:44 mydrive-tripdata-generali-italy
+    2013-11-25 17:07:40 mydrive-tripdata-isaac
+    2017-10-19 19:41:42 mydrive-tripdata-labs
+    2012-05-24 09:22:12 mydrive-tripdata-pfk
+    2016-09-30 12:18:57 mydrive-tripdata-shared
+    ```
+ #+END_EXAMPLE
 
-e.g.
-#+BEGIN_EXAMPLE
-    ```2016-09-30 13:23:12 mydrive-tripdata
-   2015-04-07 13:25:12 mydrive-tripdata-axauk
-   2016-09-30 12:18:43 mydrive-tripdata-dev
-   2016-09-30 12:19:02 mydrive-tripdata-generali-germany
-   2017-11-07 11:02:44 mydrive-tripdata-generali-italy
-   2013-11-25 17:07:40 mydrive-tripdata-isaac
-   2017-10-19 19:41:42 mydrive-tripdata-labs
-   2012-05-24 09:22:12 mydrive-tripdata-pfk
-   2016-09-30 12:18:57 mydrive-tripdata-shared
-   ```
-#+END_EXAMPLE
+    some of those are not used, and some are confused
 
-   some of those are not used, and some are confused
+******* deployment
+    deployment means a deployment of infrastructure hardware.
 
-****** deployment
-   deployment means a deployment of infrastructure hardware.
+    We have
 
-   We have
+******** generali-germany
+******** generali-italy
+******** generali-india
+******** staging
+******** mydrive (which is called demo inside those tripdata directories, so s3://mydrive-tripdata/demo/ is where it’s files go), this was an old shared deployment, so companies which didn’t need to be on private infrastructure all went on here, along with the production mydrive app in the app strore
+******* mydrive app in the app store
+********* dev
+********* labs
+********* axaie
+********* shared (this is the modern shared deployment) (edited)
+******* Infrastruture
+      Infrastructure config goes in s3://mydrive-infrastructure/
+      This has loads of folders in I don’t knwo what they are for, but it also has
+******** mydrive-infrastructure/deployments (deployment specific infrastructure config)
+******** terraform (where terraform stores it’s state files)
+***** Best practise for architectures 2017
+ https://www.dativa.com/best-practice-data-pipeline-architecture-2017/
+**** 2018-01-08 Monday
+***** today i learned:
+#+BEGIN_SRC awsevents
+AWS_PROFILE=production aws s3 ls
+#+END_SRC
+***** get a token from aws using ruby
+#+BEGIN_SRC ruby
+#!/usr/bin/env ruby
 
-******* generali-germany
-******* generali-italy
-******* generali-india
-******* staging
-******* mydrive (which is called demo inside those tripdata directories, so s3://mydrive-tripdata/demo/ is where it’s files go), this was an old shared deployment, so companies which didn’t need to be on private infrastructure all went on here, along with the production mydrive app in the app strore
-****** mydrive app in the app store
-******** dev
-******** labs
-******** axaie
-******** shared (this is the modern shared deployment) (edited)
-****** Infrastruture
-     Infrastructure config goes in s3://mydrive-infrastructure/
-     This has loads of folders in I don’t knwo what they are for, but it also has
-******* mydrive-infrastructure/deployments (deployment specific infrastructure config)
-******* terraform (where terraform stores it’s state files)
-**** Best practise for architectures 2017
-https://www.dativa.com/best-practice-data-pipeline-architecture-2017/
+require "bundler/setup"
+require "aws-sdk"
+require "iniparse"
+require "date"
+require "colorize"
+
+@region = "eu-west-1"
+@aws_profile = ENV["AWS_PROFILE"]
+
+def parse_aws_config
+  begin
+    @aws_config = IniParse.parse(File.read("#{Dir.home}/.aws/config"))
+  rescue StandardError => e
+    puts "#{e}".colorize(:light_red)
+    exit 1
+  end
+end
+
+def get_sts_credentials
+  # Parse AWS profile config file
+  parse_aws_config
+  role_arn = @aws_config["profile #{@aws_profile}"]['role_arn']
+  mfa_serial = @aws_config["profile #{@aws_profile}"]['mfa_serial']
+  role_session_name = mfa_serial.split("/").last
+  source_profile = @aws_config["profile #{@aws_profile}"]['source_profile']
+  @account_id = role_arn.split(':')[4]
+
+  # Get token from shell
+  begin
+    print "Insert new MFA token : ".colorize(:light_green)
+    system 'stty -echo'
+    token_code = gets.chomp
+    system 'stty echo'
+  rescue NoMethodError, Interrupt
+    system 'stty echo'
+    exit 1
+  end
+
+  # Get STS credentials
+  begin
+    sts = Aws::STS::Client.new(profile: source_profile, region: @region, endpoint: "https://sts.#{@region}.amazonaws.com")
+    sts_credentials = Aws::AssumeRoleCredentials.new(client: sts, role_arn: role_arn, role_session_name: role_session_name, serial_number: mfa_serial, token_code: token_code)
+    puts "\nRole assumed !!".colorize(:light_green)
+  rescue StandardError => e
+    puts "#{e}".colorize(:light_red)
+    exit 1
+  end
+
+  @expiration_date = sts_credentials.expiration
+  @credentials = sts_credentials.credentials
+end
+
+def create_aws_credentials_json
+  begin
+    tfvars = File.open(Dir.pwd + "/aws_credentials.json", 'w')
+    tfvars.puts "{"
+    tfvars.puts "  \"aws_access_key\":\"#{@credentials.access_key_id}\","
+    tfvars.puts "  \"aws_secret_key\":\"#{@credentials.secret_access_key}\","
+    tfvars.puts "  \"aws_session_token\":\"#{@credentials.session_token}\","
+    tfvars.puts "  \"expiration_date\":\"#{@expiration_date}\""
+    tfvars.puts "}"
+    tfvars.close
+  rescue StandardError => e
+    puts "#{e}".colorize(:light_red)
+  end
+end
+
+################################################################################
+# Main script
+################################################################################
+# Check STS Token expiration date
+now = DateTime.now
+begin
+  expiration_date = DateTime.parse(File.open('aws_credentials.json').grep(/expiration_date/).first.split('"')[3])
+rescue
+  expiration_date = now - 1
+end
+
+if expiration_date < now
+  puts "STS Token expired, renew credentials".colorize(:light_yellow)
+  get_sts_credentials
+  create_aws_credentials_json
+else
+  puts "Assuming role with STS cached token".colorize(:light_green)
+end
+
+
+#+END_SRC
+****** notes
+it's a ruby script
+you run it as:
+AWS_PROFILE=production ./aws_auth.rb
+it generates a json file
+that keeps your Access key, secret key, token
+what you need to do is to export these values to env var
+or inject them into the java program
