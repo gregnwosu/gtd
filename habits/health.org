@@ -8,9 +8,7 @@
 ** TODO make green smoothie                                   :@home:15min:Easy:
    SCHEDULED: <2018-01-10 Wed ++1d>
    :PROPERTIES:
-   :END:
-   :PROPERTIES:
-   :STYLE:habit
+   :STYLE: habit
    :LAST_REPEAT: [2018-01-08 Mon 11:27]
    :END:
    :LOGBOOK:
