@@ -1,7 +1,7 @@
 
-*  Reading [0/0]
+*  Reading [0/3]
 from https://codearsonist.com/reading-for-programmers
-** Verify Interest [0/7]
+** TODO Verify Interest [0/7]
    - [ ] Category - what type of paper is this?
    - [ ] Context - which other papers it is related to? which theoretical bases were used to analyze the problem?
    - [ ] Correctness - do the assumptions appear to be valid?
@@ -15,14 +15,14 @@ The first pass provides you with a high-level view of the contents. Helps you av
   (dired "~/Downloads/")
   #+END_SRC
 
-** Grasp Concepts [0/5]
+** TODO Grasp Concepts [0/5]
 - [ ] googlebooks, ibooks , phone?
 - [ ] highlight interest
 - [ ] identify require reference reading
 - [ ] grasp concepts of required reference reading
 - [ ] have a conversation with someone about it
 
-** Critique [/]
+** TODO Critique [/]
 - [ ] produce a blog post
 - [ ] write some sample code
 - [ ] publish on github/blog
