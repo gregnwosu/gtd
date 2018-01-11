@@ -11,6 +11,3 @@ stay in touch with david and shuang  , attend each others standups
 *** TODO study redshift code :@work:@home:⏰30min:⚡Average:
 
 *** TODO finish kinesis prototype
-*** 2018
-**** 2018-01 January
-***** 2018-01-09 Tuesday
