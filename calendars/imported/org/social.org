@@ -6,3 +6,68 @@
   :END:
 
   <2017-12-23 Sat 17:30-18:30>
+* TODO Drink with Prask :@home:⏰1h:⚡Easy:
+  SCHEDULED: <2018-01-17 Wed>
+  :PROPERTIES:
+  :LOCATION: The Lordship Pub, 211 Lordship Ln, London SE22 8HA, United Kingdom
+  :LINK: [[https://www.google.com/calendar/event?eid=NzByNjJvYjI2ZGlqYWI5aTZzcG1jYjlrNnNwamdiYjE2aGdtY2I5bDZjcDY4cDFtY2tzamljcG83MCBncmVnLm53b3N1QG0][Go to gcal web page]]
+  :ID: 70r62ob26dijab9i6spmcb9k6spjgbb16hgmcb9l6cp68p1mcksjicpo70
+  :END:
+
+  <2017-12-21 Thu 18:00-20:00>
+* Ifeanyi Catch up over Coffee  :@home:@lunch:⏰1h:⚡Easy:
+  :PROPERTIES:
+  :LOCATION: TBC (London)
+  :LINK: [[https://www.google.com/calendar/event?eid=NDdsZW10NDJ2NDc2MjVva2M2dGI4Z2hsb3IgZ3JlZy5ud29zdUBt][Go to gcal web page]]
+  :ID: 47lemt42v47625okc6tb8ghlor
+  :END:
+
+* Discuss Date to Arrange School buddies drink up with Pete on Whatsapp :@home:@bus:@email:@lunch:⏰15min:⚡Easy:
+  SCHEDULED: <2018-02-01 Thu>
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Y2xoNjRkYjU2Y3E2MmI5aGNkajY4YjlrNzVoM2NiOW9jY3NqOGI5cDcwczZjb2oxY2hpMzBwMXA2YyBncmVnLm53b3N1QG0][Go to gcal web page]]
+  :ID: clh64db56cq62b9hcdj68b9k75h3cb9occsj8b9p70s6coj1chi30p1p6c
+  :END:
+
+  <2018-02-03 Sat 20:00>--<2018-02-04 Sun 00:00>
+** drills
+** email
+** meetings
+*** 2018
+**** 2018-01 January
+***** 2018-01-10 Wednesday
+** today i learned
+** reading
+*** 2018
+**** 2018-01 January
+***** 2018-01-10 Wednesday
+** someday
+*** TODO download Boris brejcha                                       :music:
+    SCHEDULED: <2018-01-06 Sat>
+    :PROPERTIES:
+    :CREATED:  [2018-01-06 Sat 14:34]
+    :END:
+
+** DONE pack thunderbolt cable into bag :ARCHIVE:
+   CLOSED: [2018-01-06 Sat 15:23] DEADLINE: <2018-01-04 Thu 08:00>
+
+** DONE [[mu4e:msgid:301423253.14338754.1515018383185@mail.yahoo.com][Igbo Language app write-up]]
+   CLOSED: [2018-01-11 Thu 00:33] SCHEDULED: <2018-01-03 Wed>
+finish app for once and for all!!
+
+** TODO learn about capture buffers for gtd
+** CANCELLED learn yankpad :ARCHIVE:
+   CLOSED: [2018-01-10 Wed 10:09]
+** CANCELLED fix undo tree :ARCHIVE:
+   CLOSED: [2018-01-10 Wed 10:10]
+#+BEGIN_SRC emacs-lisp
+<parsnip> hmm, (define-key undo-tree-map (kbd "C-_") 'my-test-function) did
+          something.                                                    [11:07]
+<parsnip> yep, that worked                                              [11:08]
+<parsnip> (defun my-test-function () (interactive) (message "hello"))
+<parsnip> ya see, use the force, and vanilla elisp.
+<parsnip> use-package, y'all and yer fancy packages, can't see forest for the
+          trees.                                                        [11:09]
+<parsnip> undo-tree.el is weird
+
+#+END_SRC

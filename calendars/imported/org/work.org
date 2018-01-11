@@ -6,6 +6,8 @@
   :END:
 
   <2017-12-06 Wed 18:30-21:30>
+* TODO finish kinesis prototype :@work:@home:⏰1h:⚡Challenge:
+  DEADLINE: <2018-01-19 Fri>
 * Helping the homeless at christmas @ all saints community centre
   :PROPERTIES:
   :LOCATION: 105 New Cross Rd, London SE14 5DJ, UK

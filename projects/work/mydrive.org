@@ -1,6 +1,3 @@
 * work
 ** mydrive
 *** TODO finish kinesis prototype
-*** 2018
-**** 2018-01 January
-***** 2018-01-09 Tuesday
