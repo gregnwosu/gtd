@@ -1,5 +1,15 @@
 * work
 ** mydrive
+*** TODO from meeting end of probation review
+    SCHEDULED: <2018-01-15 Mon>
+chase gavin on cloud guru for aws learning
+solutions architect associate/ maybe full monty afterwards
+level up time on a tuesday morning
+commercial offering from nadya
+stay in touch with david and shuang  , attend each others standups
+
+*** TODO study redshift code :@work:@home:⏰30min:⚡Average:
+
 *** TODO finish kinesis prototype
 *** 2018
 **** 2018-01 January

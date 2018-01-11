@@ -1,6 +1,38 @@
 *  today i learned
 ** 2018
 *** 2018-01 January
+**** 2018-01-10 Wednesday
+***** packaging with scala needs
+#+BEGIN_SRC scala
+enablePlugins(JavaAppPackaging)
+
+#+END_SRC
+in build.sbt
+
+http://www.scala-sbt.org/sbt-native-packager/archetypes/java_app/index.html
+***** overloading a spark component
+
+http://arjon.es/2015/10/02/reading-compressed-data-with-spark-using-unknown-file-extensions/
+#+BEGIN_SRC scala
+package smx.ananke.spark.util.codecs
+
+import org.apache.hadoop.io.compress.GzipCodec
+
+class TmpGzipCodec extends GzipCodec {
+
+  override def getDefaultExtension(): String = ".gz.tmp"
+
+}
+
+val conf = new SparkConf()
+// Custom Codec that process .gz.tmp extensions as a common Gzip format
+conf.set("spark.hadoop.io.compression.codecs", "smx.ananke.spark.util.codecs.TmpGzipCodec")
+
+val sc = new SparkContext(conf)
+val data = sc.textFile("s3n://my-data-bucket/2015/09/21/13/*")
+
+
+#+END_SRC
 **** 2018-01-03 Wednesday
 ***** TODAY I LEARNED:
  Sqlalchemy for

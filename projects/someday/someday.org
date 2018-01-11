@@ -1,4 +1,5 @@
 * someday
+* TODO new project , using haskell emacs bridge and tensorflow to build machine learning company mode for completions of prgrams
 ** how to
 should only be reviewed during the weekly review
 *** weekly review
