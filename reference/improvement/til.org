@@ -1,4 +1,4 @@
-*  today i learned
+* today i learned
 ** 2018
 *** 2018-01 January
 **** 2018-01-10 Wednesday
@@ -216,3 +216,10 @@ it generates a json file
 that keeps your Access key, secret key, token
 what you need to do is to export these values to env var
 or inject them into the java program
+**** 2018-01-15 Monday
+***** videos on practical category theory
+
+https://www.youtube.com/watch?v=6t6bsWVOIzs
+http://www.math.jhu.edu/~eriehl/compose.pdf
+https://www.youtube.com/watch?v=MvQxNm5gn8g
+https://www.youtube.com/watch?v=ho7oagHeqNc
