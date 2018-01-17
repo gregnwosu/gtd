@@ -1,3 +1,16 @@
 * work
+** TODO research data warehouse  drill down structures
+page 301 of the information architecture book talks of facets (tags?) instead of a strict hierarchy
+
 ** mydrive
+*** TODO from meeting end of probation review
+    SCHEDULED: <2018-01-15 Mon>
+chase gavin on cloud guru for aws learning
+solutions architect associate/ maybe full monty afterwards
+level up time on a tuesday morning
+commercial offering from nadya
+stay in touch with david and shuang  , attend each others standups
+
+*** TODO study redshift code :@work:@home:⏰30min:⚡Average:
+
 *** TODO finish kinesis prototype

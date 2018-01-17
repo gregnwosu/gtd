@@ -5,5 +5,5 @@
 :PROPERTIES:
   :STYLE:    habit
   :END:
-** TODO self driving car course
+** TODO self driving car course :@work:@home:@bus:@lunch:⏰30min:⚡Challenge:habit:
    SCHEDULED: <2018-01-03 Wed +2d -1d>

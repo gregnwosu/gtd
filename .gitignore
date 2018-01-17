@@ -16,3 +16,6 @@
 /reference/gtd/.DS_Store
 /reference/.DS_Store
 /.DS_Store
+/**/*.ics
+/*/*.ics
+/calendars/imported/ical/*
