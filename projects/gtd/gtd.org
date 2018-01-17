@@ -1,12 +1,9 @@
 * gtd
-** 2018
-*** 2018-01 January
-**** 2018-01-08 Monday
-***** learn clocking on off in org
-**** 2018-01-09 Tuesday
-***** gtd task: fix gcal sync use this
+* learn clocking on off in org
+* gtd task: fix gcal sync use this
 https://koenig-haunstetten.de/2017/01/02/google-calendar-integration-in-orgmode/
-***** gtd task:
+* DONE gtd task:
+  CLOSED: [2018-01-11 Thu 12:00]
 change capture templates so that everything goes to inbox
 the property should denote which project things go in
 we can filter or refile by project
