@@ -1,0 +1,212 @@
+#+TITLE: igbo
+#+AUTHOR: Greg Nwosu
+#+FILETAGS: :drill:
+* igbo                                                                :drill:
+  :PROPERTIES:
+  :ID:       888E58B8-7F95-417A-8CE7-38412E7842EC
+  :END:
+** preposition
+*** fact
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[ebee] means [where||location]
+** pronouns
+*** fact
+
+** nouns
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       C1DAC515-85E9-44D4-83F8-1B39EFB6C83C
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[person] means [onye]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       621AD36A-4A22-43B5-8270-A8E71785BD48
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[n'ala||n' means "on"] means [floor||f____]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       156D9B16-699A-4912-8C96-0551581FF49F
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[bekee] means [white person||_ person]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       2718ABD0-69A0-433A-9434-145EE2A4719C
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[afe] means [clothes]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       A9965679-D0EF-4D3D-880B-B4BD488D8616
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[wooden gong] is [ekwe]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       6D383FB3-04DA-4489-9F9F-9062BE9D775C
+    :DRILL_CARD_TYPE: hide1cloze
+    :DRILL_LAST_INTERVAL: 0.0
+    :DRILL_REPEATS_SINCE_FAIL: 1
+    :DRILL_TOTAL_REPEATS: 1
+    :DRILL_FAILURE_COUNT: 1
+    :DRILL_AVERAGE_QUALITY: 2.0
+    :DRILL_EASE: 2.5
+    :DRILL_LAST_QUALITY: 2
+    :DRILL_LAST_REVIEWED: [2018-01-16 Tue 23:23]
+    :END:
+[ekwenti] is [telephone]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       44BC28C9-93A3-4485-BCE8-9B9AE55E32B4
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[ebe] is [bug]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       24BB9EFA-91F5-4DFF-B81A-B6F3F3F7205A
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[akwa] is [bed]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       8E3178A9-F450-4F4D-9480-4E0F47C1CAD3
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[lee] means [look]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       3614C354-424F-4E23-B6FC-E0BD78F2B8E2
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[amaka mma||or just mma] means [beautiful]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       74CEB80F-BF39-4FAB-95CF-198E551B2921
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[joro un jo||j___ un j_] means [ugly]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       E4C9A815-0953-4AF8-8332-714EFFF9E0F7
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[eke] means [python]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       ABAB79F0-2EB3-4E8F-B8F1-0B1BDFE602EE
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[ele] means [antelope]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       AE7DF2AE-66A1-4468-8D8A-698F1A2C0EFE
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[ele] means [teeth]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       11A0118A-5AF9-457A-97D7-3D6722091547
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[ede] means [cocoa yam]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       2E8A95F6-50F4-45D8-9A29-7A31CC1A455D
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[d'igi||d'___] means [master of]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       E0F89F92-2574-4150-A68A-312658BC5E2D
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[ikwe] means [yam mortar]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       B10CED72-0233-4BCD-8A11-DE269AE9F22C
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[father] is [nna||nn_]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       DEF2E5F5-1FF8-4611-B8AD-92CA2CDDD288
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[mother] is [nne||__ e]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       1DC3701A-3DD2-401C-AC9A-851503F1C8D0
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[wee] means [therefore]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       129BAC86-B6B9-4D9F-9203-22FD45B6C6DE
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[akwa] means [cry]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       940D2D75-77A0-45CD-BC36-0AA45B70F22D
+    :END:
+[tears] means [kwaa]
+** verbs
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       922B3FC6-0AF0-4605-A29F-D56AD8827427
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[agba] means [stinging||pain]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       7B75C8B6-729F-4D18-A13B-40EE81C853A3
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[dara] means [fall]
+** phrases
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       3DB771C0-577A-4FBC-A099-611D7CAFBEAB
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[amaghi] means [it is not]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       8C7BD41E-1BB6-4A51-9BDF-6AFC686B053A
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[ama m||a__ m] means [i know]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       9E792413-A727-4982-9F14-7A725810D3B7
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[kwaa awka] means [cry tears]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       5DC0E697-18D1-47EC-989A-B358946C5064
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[ebee ka I na-eje] means [where are you going||where]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       2037EB6C-05F2-40A3-9338-DDE0C65C23D3
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[guo ma kowaa] means [read and explain||re__ & ex__]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       8008F208-DCEF-43B4-AEAB-03C9F9887F13
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[kedu m aka papa gi] means [how is your father]
+*** fact                                                              :drill:
+    :PROPERTIES:
+    :ID:       3C2DD403-7826-47FD-AF72-F0C0EBA3975B
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+[kedu m aka mama gi] means [how is your mother]
