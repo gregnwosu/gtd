@@ -1,4 +1,5 @@
 * gtd
+
 ** TODO refine mu4e
 
 using https://vxlabs.com/2014/06/06/configuring-emacs-mu4e-with-nullmailer-offlineimap-and-multiple-identities/
@@ -13,3 +14,12 @@ using https://vxlabs.com/2014/06/06/configuring-emacs-mu4e-with-nullmailer-offli
  we can filter or refile by project
 ** DONE self driving car coursesetup habit :@work:@home:@bus:@lunch:⏰15min:⏰30min:⚡Easy:
    CLOSED: [2018-01-19 Fri 22:21] SCHEDULED: <2018-01-03 Wed>
+
+* learn clocking on off in org
+* gtd task: fix gcal sync use this
+https://koenig-haunstetten.de/2017/01/02/google-calendar-integration-in-orgmode/
+* DONE gtd task:
+  CLOSED: [2018-01-11 Thu 12:00]
+change capture templates so that everything goes to inbox
+the property should denote which project things go in
+we can filter or refile by project
