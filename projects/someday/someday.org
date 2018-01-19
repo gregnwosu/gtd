@@ -1,4 +1,5 @@
 * someday
+** https://mmhaskell.com/blog/2017/9/25/grenade-dependently-typed-neural-networks :@home:⏰30min:⚡Average:⚡Easy:
 * TODO new project , using haskell emacs bridge and tensorflow to build machine learning company mode for completions of prgrams
 ** how to
 should only be reviewed during the weekly review

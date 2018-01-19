@@ -1,4 +1,7 @@
 * business
+* TODO apply for a mortgage
+  DEADLINE: <2018-01-09 Tue>
+
 * TODO follow up with tomas on sherfield
 
    SCHEDULED: <2018-01-10 Wed>

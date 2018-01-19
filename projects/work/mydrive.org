@@ -1,4 +1,14 @@
 * work
+** TODO set up conversation with maria to talk about entity diagram
+** TODO GDPR aws [[mu4e:msgid:01000160ff2e5dcf-e62d4ab9-582f-4d96-bd87-170dc9d1a8a6-000000@email.amazonses.com][50th AWS Availability Zone launched, what you need to know about GDPR and more]]
+   DEADLINE: <2018-01-21 Sun>
+** TODO Check why [[mu4e:msgid:1b75e27a-67a1-496d-a1d3-febea299a069@CAEW01.qa.local][Payslip]] only shows 680
+** TODO learn more commercials
+   SCHEDULED: <2018-01-09 Tue>
+   :PROPERTIES:
+   :CREATED:  [2018-01-09 Tue 14:42]
+   :END:
+
 ** TODO research data warehouse  drill down structures
 page 301 of the information architecture book talks of facets (tags?) instead of a strict hierarchy
 

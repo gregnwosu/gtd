@@ -1,1 +1,15 @@
 * love
+** TODO meeting kanayo for a drink
+    SCHEDULED: <2018-01-27 Sat 07:30>
+    :PROPERTIES:
+    :CREATED:  [2018-01-16 Tue 10:08]
+    :END:
+
+** TODO meeting Gersy as Soas :⏰1h:⚡Easy:
+   SCHEDULED: <2018-02-16 Fri>
+
+Buchi Emecheta event at Soas on the 3rd Feb.
+[[mu4e:msgid:DA4D3F7A-6F63-41A4-BFFE-573C456C67D6@digitalbackbooks.com][Re: Introduction/ Proposed date/time for coffee]]
+
+** TODO reunion drink @ BAC
+   SCHEDULED: <2018-02-03 Sat 19:00>

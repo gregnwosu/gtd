@@ -5,5 +5,12 @@
 :PROPERTIES:
   :STYLE:    habit
   :END:
-** TODO self driving car course :@work:@home:@bus:@lunch:⏰30min:⚡Challenge:habit:
-   SCHEDULED: <2018-01-03 Wed +2d -1d>
+** TODO self driving car course :@work:@home:@bus:@lunch:⏰30min:⚡Challenge:
+   SCHEDULED: <2018-01-05 Fri +2d -1d>
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2018-01-19 Fri 22:22]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "TODO"          [2018-01-19 Fri 22:22]
+   :END:

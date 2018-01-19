@@ -1,4 +1,8 @@
 * gtd
+** TODO refine mu4e
+
+using https://vxlabs.com/2014/06/06/configuring-emacs-mu4e-with-nullmailer-offlineimap-and-multiple-identities/
+
 ** learn clocking on off in org
 ** DONE gtd task: fix gcal sync use this
    CLOSED: [2018-01-11 Thu 17:21]
@@ -7,5 +11,5 @@
    CLOSED: [2018-01-11 Thu 17:21]
  the property should denote which project things go in
  we can filter or refile by project
-** TODO self driving car coursesetup habit :@work:@home:@bus:@lunch:⏰15min:⏰30min:⚡Easy:
-   SCHEDULED: <2018-01-03 Wed>
+** DONE self driving car coursesetup habit :@work:@home:@bus:@lunch:⏰15min:⏰30min:⚡Easy:
+   CLOSED: [2018-01-19 Fri 22:21] SCHEDULED: <2018-01-03 Wed>
