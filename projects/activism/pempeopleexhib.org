@@ -11,6 +11,24 @@ esta.orchard@gmail.com
 
 ** TODO apply pix2pix tutorial to pictures
 https://ml4a.github.io/guides/Pix2Pix/
+
+*** pictures
+https://photos.google.com/photo/AF1QipP6Al6vETJyU9QJG1ZSafg3FvOB6LS0HqlgaKEl
+https://photos.google.com/photo/AF1QipOtYrb6JBw0NywpF5dUcXGZFBilG9V9gWdELhjk
+https://photos.google.com/photo/AF1QipNIu9cJGclFgGsBPHAdBZsqUzMfWPTHAMhPLKKv
+https://photos.google.com/photo/AF1QipPdZXlqvh6ZdAQHo02z6lCJ0fTTl8MgvdJHw0V3
+https://photos.google.com/photo/AF1QipPaOO9ban8xqa3iVmg0F6y45pxzucPasnZwaN8P
+https://photos.google.com/photo/AF1QipMl9LVYUeeqM0XjahCzyrI6yg0F_2Sb0xwGG3m0
+https://photos.google.com/photo/AF1QipPzqnUeufHPv4Efq2oWWkwSGFBaKQ-ymrZNflMF
+https://photos.google.com/photo/AF1QipMRygv9gc-uP4U74FjEeJiEif3iZbKrUO3jt4Rb
+https://photos.google.com/photo/AF1QipPHXAY-sLQ1RRDwcG1ailS2xMaR4oOv_VRrsAuu
+https://photos.google.com/photo/AF1QipPepkNCAMcFCz1sOiFcxXnoMpau_ki6sMHZmLk0
+https://photos.google.com/photo/AF1QipORPnfPSq6pHFjFZiIccfSCEev34vHplEN35tO8
+https://photos.google.com/photo/AF1QipMJj0-Bsz9HYMtrjU90_OdFm01nsZE2uKdg2QNJ
+https://photos.google.com/photo/AF1QipNgERj4brmjZJd5UG0odt3PMYmAhzyjeUraA2tt
+https://photos.google.com/photo/AF1QipNf2mmnLonxTQ3nTp3eTAHcdPvk80fcXMwWZvnd
+https://photos.google.com/photo/AF1QipN4G0EDF3hsOMwg2RicquBJr6OpjDBV-9YvTFIi
+https://photos.google.com/photo/AF1QipNOTDnr0QMV8roFTAkbXoqnF3wyYnggCVZY9BZE
 ** TODO get dylans work
 ** TODO  get pictures framed and printed
 
