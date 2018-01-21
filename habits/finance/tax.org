@@ -5,5 +5,5 @@
 :PROPERTIES:
   :STYLE:    habit
   :END:
-** Submit Taxes                                          :@home:1h:Challenge:
+** TODO Submit Taxes                                        :@home:1h:Challenge:
    SCHEDULED: <2018-01-07 Sun +1y>

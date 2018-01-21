@@ -16,12 +16,13 @@
    - State "DONE"       from "TODO"          [2018-01-08 Mon 10:19]
    - State "DONE"       from "WAITING"    [2018-01-08 Mon 08:11]
    :END:
-** TODO sleep before 12 :@home:⏰15min:⚡Easy:                           :habit:
-   SCHEDULED: <2018-01-10 Wed ++1d>
+** TODO sleep before 12 :@home:⏰15min:⚡Easy:                        :habit:
+   SCHEDULED: <2018-01-22 Mon ++1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-01-09 Tue 08:15]
+   :LAST_REPEAT: [2018-01-21 Sun 10:55]
    :STYLE:    habit
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2018-01-21 Sun 10:55]
    - State "DONE"       from "TODO"          [2018-01-09 Tue 08:15]
    :END:
