@@ -7,7 +7,8 @@
 
 *** Send to Esta to review
 esta.orchard@gmail.com
-** TODO take photos of peckham
+** DONE take photos of peckham
+   CLOSED: [2018-01-21 Sun 13:06]
 
 ** TODO apply pix2pix tutorial to pictures
 https://ml4a.github.io/guides/Pix2Pix/
